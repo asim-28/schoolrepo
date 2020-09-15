@@ -1,2 +1,0 @@
-# schoolrepo
-making first repository 
